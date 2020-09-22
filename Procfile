@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit examples/01_out-of-the-box.py
+web: sh setup.sh && streamlit run 01_out-of-the-box.py
